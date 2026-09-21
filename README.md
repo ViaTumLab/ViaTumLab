@@ -2,29 +2,54 @@
 
 # ViaTumLab
 
-**AI Agent 实验室 · 让想法直达成果**
+**构建 Harness 中间层的前沿实验室**
 
+*One intelligent layer. Across real-world domains.*
+
+[![Website](https://img.shields.io/badge/官网-viatumlab-111111)](https://viatumlab.inkmindspace.com/)
 [![YAgent](https://img.shields.io/badge/project-YAgent-2563eb)](https://github.com/ViaTumLab/YAgent)
 [![License](https://img.shields.io/badge/license-MIT-16a34a)](https://github.com/ViaTumLab/YAgent/blob/main/LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](#)
 
-<em>Via Tum — 一条通往未来的路径</em>
+**在研究与真实世界之间，构建下一层可能。**
 
 </div>
 
 ---
 
-## 关于我们
+## 缺失的一层
 
-**ViaTumLab** 是一个专注于 AI Agent 工程化落地的开源团队。我们相信：模型的推理能力只有配上真实可用的工程环境，才能从演示变成生产力。
+在模型之上、应用之下，存在一个缺失的层 —— **Harness 层**。
 
-我们的方向：
+模型提供通用智能，ViaTumLab 构建工作的环境：把工具、上下文、记忆与执行控制连接起来，做成**可复用、可迁移的 Agent 系统底座**。我们探索智能体如何跨任务、跨场景持续工作 —— 让下一个想法，真正运行起来。
 
-- **桌面级智能体工作站** — 把多模型接入、代码工程工具、浏览器操控、任务审阅整合进一个开箱即用的产品
-- **多智能体协作** — 八类子代理与可解析的委派计划，让复杂任务可以被拆解、追踪与验收
-- **真实工作区优先** — 一切能力围绕真实项目结构、权限边界与可恢复的长任务设计
+## 我们在构建
+
+### ViaHarness — 多场景统一 Harness 基础设施
+
+> Build the core once. Adapt the last mile.
+
+- **任务感知路由** — 理解任务、执行阶段与领域约束，在成本、速度和质量之间自动选择模型、Skill 与策略（`model = "auto"`）
+- **兼容现有工作流** — 继续使用 Codex、Claude Code、Cursor 等终端，只需把 API 地址指向 ViaHarness
+- **成本可控、决策可解释** — 记录每一次选择的原因、成本、耗时与重试
+- **跨场景迁移** — 统一内核（执行编排、上下文记忆、评测反馈、权限审计）复用于金融、医疗、教育、科研、政务五大领域，每个领域只需适配最后一公里
+
+### [YAgent](https://github.com/ViaTumLab/YAgent) — 开源桌面客户端
+
+> 模型你来选，工作交给 Yan。
+
+- 连接本地代码、工具与多 Agent 协作的开源桌面客户端（Windows x64 / macOS Apple Silicon）
+- 多模型适配、工程级代码工具、长任务恢复、MCP 与变更审阅
+- 搭配 ViaHarness 使用，发挥 MAX 效果
+
+## 研究方向：递归自我改进（RSI）
+
+1. **Execution-Grounded Learning** — 从真实执行轨迹中学习
+2. **Recursive Self-Improvement** — 生成、评测并迭代模型路由、Skill、工作流与记忆策略
+3. **Verifiable Evolution** — 通过基准、独立评测、版本追踪与回退机制，实现可验证的安全演化
 
 ## 主创团队
+
+创始团队来自北京大学与清华大学，汇聚多名顶尖基础模型团队成员，孵化于国家重点实验室。
 
 <table>
   <tr>
@@ -87,25 +112,14 @@
   </tr>
 </table>
 
-## 我们的项目
-
-### [YAgent](https://github.com/ViaTumLab/YAgent) — 开源桌面 Agent 工作站
-
-> 模型你来选，工作交给 Yan。把多模型、八类子代理、精准代码工具与浏览器操控装进一个开源桌面工作站，从一句想法到看得见的成果。
-
-- 多模型适配：DeepSeek / GLM / GPT / Qwen / Kimi 专用协议适配
-- 工程级代码能力：仓库地图、符号级导航、精确编辑、影响面分析
-- 八类子代理：Explore / Review / Research / Test / Build / Mapper / Tracer / Reverser
-- 长任务与恢复：状态持久化、断流重连、任务级 worktree 隔离
-- 内置浏览器：快照、操控、网页注释与视觉证据
-
 ## 联系我们
 
-- 提交问题：[YAgent Issues](https://github.com/ViaTumLab/YAgent/issues)
-- 加入讨论：欢迎通过 Issue 或 Discussions 与我们交流
+- 官网：[viatumlab.inkmindspace.com](https://viatumlab.inkmindspace.com/)
+- 邮箱：[axiom@viatumlab.com](mailto:axiom@viatumlab.com)
+- 问题反馈：[YAgent Issues](https://github.com/ViaTumLab/YAgent/issues)
 
 <div align="center">
 
-<sub>ViaTumLab · 用开源的方式，造真正能干活的 Agent</sub>
+**Let's build the next layer.**
 
 </div>

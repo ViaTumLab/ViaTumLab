@@ -175,10 +175,9 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <!-- 杨宗：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
-      <a href="mailto:1596030776@qq.com">
-        <img src="https://github.com/identicons/yangzong.png" width="100px;" alt="杨宗 ZongYang"/><br />
+      <a href="https://github.com/1596030776">
+        <img src="https://github.com/1596030776.png" width="100px;" alt="杨宗 ZongYang"/><br />
         <sub><b>杨宗 ZongYang</b></sub>
       </a>
       <br />

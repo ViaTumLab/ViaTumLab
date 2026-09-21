@@ -61,7 +61,7 @@
       <br />
       <sub>创始人 · CEO</sub>
       <br />
-      <sub>北京大学计算机博士在读</sub>
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/whu125">
@@ -156,8 +156,9 @@
     </td>
   </tr>
   <tr>
+    <td width="20%"></td>
     <!-- 蒋旭：暂无 GitHub，如需可替换头像链接 -->
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
         <img src="https://github.com/identicons/jiangxu.png" width="100px;" alt="Xu Jiang"/><br />
         <sub><b>蒋旭 Xu Jiang</b></sub>
@@ -165,7 +166,7 @@
       <br />
       <sub>北京大学 · 计算机硕士</sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="20%">
       <a href="https://github.com/chipfighter">
         <img src="https://github.com/chipfighter.png" width="100px;" alt="Junjie Wang"/><br />
         <sub><b>王俊杰 Junjie Wang</b></sub>
@@ -173,6 +174,8 @@
       <br />
       <sub>Harness 架构师</sub>
     </td>
+    <td width="20%"></td>
+    <td width="20%"></td>
   </tr>
 </table>
 

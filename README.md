@@ -53,7 +53,7 @@
 
 <table>
   <tr>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/AxiomJin">
         <img src="https://github.com/AxiomJin.png" width="100px;" alt="AxiomJin"/><br />
         <sub><b>靳宏博（AxiomJin）</b></sub>
@@ -63,7 +63,7 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/whu125">
         <img src="https://github.com/whu125.png" width="100px;" alt="Wenhao Zhang"/><br />
         <sub><b>张文昊 Wenhao Zhang</b></sub>
@@ -75,7 +75,7 @@
       <br />
       <sub><a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://trilarflagz.github.io/">
         <img src="https://github.com/Trilarflagz.png" width="100px;" alt="Jingqi Tian"/><br />
         <sub><b>田景绮 Jingqi Tian</b></sub>
@@ -87,7 +87,7 @@
       <br />
       <sub><a href="https://scholar.google.com/citations?user=kSKlaQIAAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
-    <td align="center" width="25%">
+    <td align="center" width="20%">
       <a href="https://github.com/farewellthree">
         <img src="https://github.com/farewellthree.png" width="100px;" alt="Ryan Liu"/><br />
         <sub><b>Ryan Liu（farewellthree）</b></sub>
@@ -99,9 +99,6 @@
       <br />
       <sub><a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
-  </tr>
-  <tr><td colspan="4"><hr /></td></tr>
-  <tr>
     <!-- 李革：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="20%">
       <a href="https://www.ece.pku.edu.cn/info/1046/2658.htm">
@@ -113,6 +110,8 @@
       <br />
       <sub>多媒体处理 · 人工智能与数据挖掘</sub>
     </td>
+  </tr>
+  <tr>
     <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=0XooOf0AAAAJ">
@@ -146,6 +145,15 @@
       </a>
       <br />
       <sub>北京大学 · AIGC · 视频推理</sub>
+    </td>
+    <!-- 蒋旭：暂无 GitHub，如需可替换头像链接 -->
+    <td align="center" width="20%">
+      <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
+        <img src="https://github.com/identicons/jiangxu.png" width="100px;" alt="Xu Jiang"/><br />
+        <sub><b>蒋旭 Xu Jiang</b></sub>
+      </a>
+      <br />
+      <sub>北京大学 · 计算机硕士</sub>
     </td>
   </tr>
 </table>

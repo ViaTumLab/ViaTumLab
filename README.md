@@ -43,7 +43,9 @@
 - 多模型适配、工程级代码工具、长任务恢复、MCP 与变更审阅
 - 搭配 ViaHarness 使用，发挥 MAX 效果
 
-## 研究方向：递归自我改进（RSI）
+## Harness 前沿探索
+
+### 递归自我改进（RSI）
 
 1. **Execution-Grounded Learning** — 从真实执行轨迹中学习
 2. **Recursive Self-Improvement** — 生成、评测并迭代模型路由、Skill、工作流与记忆策略

@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><img src="icon.png" width="72" alt="ViaTumLab icon" style="vertical-align: middle"/> ViaTumLab</h1>
+<h1><img src="icon.png" width="34" alt="ViaTumLab icon" style="vertical-align: middle"/> ViaTumLab</h1>
 
 **构建 Harness 中间层的前沿实验室**
 

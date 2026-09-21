@@ -38,26 +38,37 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <!-- 张文昊：提供 GitHub 用户名后，将 identicons 链接替换为 https://github.com/<用户名>.png 并补上 <a href> -->
     <td align="center" width="25%">
-      <img src="https://github.com/identicons/wenhao.png" width="100px;" alt="张文昊"/><br />
-      <sub><b>张文昊</b></sub>
+      <a href="https://trilarflagz.github.io/">
+        <img src="https://github.com/Trilarflagz.png" width="100px;" alt="Jingqi Tian"/><br />
+        <sub><b>田景绮 Jingqi Tian</b></sub>
+      </a>
       <br />
-      <sub>联合创始人</sub>
+      <sub>联合创始人 · 清华大学</sub>
+      <br />
+      <sub>多模态大模型 · 视频推理 · GUI 智能体</sub>
     </td>
-    <!-- 田景绮：提供 GitHub 用户名后替换头像链接 -->
+    <!-- 张文昊：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="25%">
-      <img src="https://github.com/identicons/jingqi.png" width="100px;" alt="田景绮"/><br />
-      <sub><b>田景绮</b></sub>
+      <a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">
+        <img src="https://github.com/identicons/wenhao.png" width="100px;" alt="Wenhao Zhang"/><br />
+        <sub><b>张文昊 Wenhao Zhang</b></sub>
+      </a>
       <br />
-      <sub>联合创始人</sub>
+      <sub>联合创始人 · 北京大学</sub>
+      <br />
+      <sub>视频理解 · 长视频推理</sub>
     </td>
-    <!-- 柳儒杨：提供 GitHub 用户名后替换头像链接 -->
+    <!-- 柳儒杨：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="25%">
-      <img src="https://github.com/identicons/ruyang.png" width="100px;" alt="柳儒杨"/><br />
-      <sub><b>柳儒杨</b></sub>
+      <a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">
+        <img src="https://github.com/identicons/ruyang.png" width="100px;" alt="Ruyang Liu"/><br />
+        <sub><b>柳儒杨 Ruyang Liu</b></sub>
+      </a>
       <br />
-      <sub>联合创始人</sub>
+      <sub>联合创始人 · 北京大学</sub>
+      <br />
+      <sub>视频理解 · 多模态大模型（ST-LLM）</sub>
     </td>
   </tr>
 </table>

@@ -66,7 +66,7 @@
     <td align="center" width="20%">
       <a href="https://github.com/whu125">
         <img src="https://github.com/whu125.png" width="100px;" alt="Wenhao Zhang"/><br />
-        <sub><b>张文昊Vince</b></sub>
+        <sub><b>张文昊（Vince）</b></sub>
       </a>
       <br />
       <sub>联合创始人 · Harness负责人</sub>
@@ -181,7 +181,14 @@
       <br />
       <sub>Harness 架构师</sub>
     </td>
-    <td width="20%"></td>
+    <td align="center" width="20%">
+      <a href="https://github.com/666-gy">
+        <img src="https://github.com/666-gy.png" width="100px;" alt="郭缘"/><br />
+        <sub><b>郭缘</b></sub>
+      </a>
+      <br />
+      <sub>YAgent 核心开发者</sub>
+    </td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>

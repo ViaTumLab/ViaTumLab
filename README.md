@@ -59,9 +59,9 @@
         <sub><b>靳宏博（AxiomJin）</b></sub>
       </a>
       <br />
-      <sub>创始人 · 架构与产品方向</sub>
+      <sub>创始人 · CEO</sub>
       <br />
-      <sub>北京大学</sub>
+      <sub>北京大学计算机博士在读</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/whu125">

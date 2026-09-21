@@ -69,9 +69,9 @@
         <sub><b>张文昊Vince</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · 北京大学</sub>
+      <sub>联合创始人 · Harness负责人</sub>
       <br />
-      <sub>Harness负责人</sub>
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://trilarflagz.github.io/">
@@ -79,9 +79,7 @@
         <sub><b>田景绮 Jingqi Tian</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · 清华大学</sub>
-      <br />
-      <sub>LLM · 智能体 · 多模态理解</sub>
+      <sub>联合创始人 · 技术负责人 · 清华大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/farewellthree">
@@ -89,9 +87,11 @@
         <sub><b>Ryan Liu</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · 北京大学</sub>
+      <sub>联合创始人 · 科研负责人</sub>
       <br />
-      <sub>视频理解 · 多模态大模型</sub>
+      <sub>科研团队（视频理解 · 多模态大模型）</sub>
+      <br />
+      <sub>北京大学</sub>
       <br />
       <sub><a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
@@ -102,9 +102,9 @@
         <sub><b>李革 Ge Li</b></sub>
       </a>
       <br />
-      <sub>首席科学家 · 北京大学信息工程学院</sub>
+      <sub>首席科学家 · 多媒体处理 · 人工智能与数据挖掘</sub>
       <br />
-      <sub>多媒体处理 · 人工智能与数据挖掘</sub>
+      <sub>北京大学信息工程学院</sub>
     </td>
   </tr>
   <tr>
@@ -114,7 +114,7 @@
         <sub><b>ZyQiu6</b></sub>
       </a>
       <br />
-      <sub>清华大学 · LLM infra 团队负责人</sub>
+      <sub>科研团队（LLM infra）负责人 · 清华大学</sub>
     </td>
     <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
@@ -123,7 +123,7 @@
         <sub><b>Alex Sun</b></sub>
       </a>
       <br />
-      <sub>北京大学 · 视频理解</sub>
+      <sub>科研团队（视频理解） · 北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/KuanweiLin910730">
@@ -131,7 +131,7 @@
         <sub><b>林冠帏 Kuanwei Lin</b></sub>
       </a>
       <br />
-      <sub>北京大学</sub>
+      <sub>技术核心 · 北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/JiayuDing031020">
@@ -139,7 +139,7 @@
         <sub><b>丁家钰 Jiayu Ding</b></sub>
       </a>
       <br />
-      <sub>北京大学 · LLM for 3D 与视频理解</sub>
+      <sub>科研团队（LLM for 3D 与视频理解） · 北京大学</sub>
     </td>
     <!-- 杜忠璟：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
@@ -148,11 +148,10 @@
         <sub><b>杜忠璟 Zhongjing Du</b></sub>
       </a>
       <br />
-      <sub>北京大学 · AIGC · 视频推理</sub>
+      <sub>科研团队（AIGC · 视频推理） · 北京大学</sub>
     </td>
   </tr>
   <tr>
-    <td width="20%"></td>
     <!-- 蒋旭：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
@@ -160,7 +159,7 @@
         <sub><b>蒋旭 Xu Jiang</b></sub>
       </a>
       <br />
-      <sub>北京大学 · 计算机硕士</sub>
+      <sub>计算机硕士 · 北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/chipfighter">
@@ -170,6 +169,7 @@
       <br />
       <sub>Harness 架构师</sub>
     </td>
+    <td width="20%"></td>
     <td width="20%"></td>
     <td width="20%"></td>
   </tr>

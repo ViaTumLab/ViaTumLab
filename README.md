@@ -47,7 +47,7 @@
 2. **Recursive Self-Improvement** — 生成、评测并迭代模型路由、Skill、工作流与记忆策略
 3. **Verifiable Evolution** — 通过基准、独立评测、版本追踪与回退机制，实现可验证的安全演化
 
-## 主创团队
+## 我们的团队
 
 创始团队来自北京大学与清华大学，汇聚多名顶尖基础模型团队成员，孵化于国家重点实验室。
 
@@ -101,8 +101,6 @@
     </td>
   </tr>
   <tr><td colspan="4"><hr /></td></tr>
-  <tr><td colspan="4"><hr /></td></tr>
-  <tr><td colspan="4" align="center"><b>核心成员</b></td></tr>
   <tr>
     <!-- 李革：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="20%">

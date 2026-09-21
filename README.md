@@ -71,6 +71,20 @@
       <sub>视频理解 · 多模态大模型（ST-LLM）</sub>
     </td>
   </tr>
+  <tr><td colspan="4"><hr /></td></tr>
+  <tr>
+    <!-- 李革：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
+    <td align="center" width="25%">
+      <a href="https://www.ece.pku.edu.cn/info/1046/2658.htm">
+        <img src="https://github.com/identicons/geli.png" width="100px;" alt="Ge Li"/><br />
+        <sub><b>李革 Ge Li</b></sub>
+      </a>
+      <br />
+      <sub>首席科学家 · 北京大学信息工程学院</sub>
+      <br />
+      <sub>多媒体处理 · 人工智能与数据挖掘</sub>
+    </td>
+  </tr>
 </table>
 
 ## 我们的项目

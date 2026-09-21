@@ -110,8 +110,8 @@
   <tr>
     <td align="center" width="20%">
       <a href="https://github.com/ZyQiu6">
-        <img src="https://github.com/ZyQiu6.png" width="100px;" alt="邱子毅 ZiYee"/><br />
-        <sub><b>邱子毅 ZiYee</b></sub>
+        <img src="https://github.com/ZyQiu6.png" width="100px;" alt="邱子毅 Ziyi Qiu"/><br />
+        <sub><b>邱子毅 Ziyi Qiu</b></sub>
       </a>
       <br />
       <sub>LLM infra团队负责人</sub>

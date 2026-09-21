@@ -31,7 +31,7 @@
     <td align="center" width="25%">
       <a href="https://github.com/AxiomJin">
         <img src="https://github.com/AxiomJin.png" width="100px;" alt="AxiomJin"/><br />
-        <sub><b>LD（AxiomJin）</b></sub>
+        <sub><b>靳宏博（AxiomJin）</b></sub>
       </a>
       <br />
       <sub>创始人 · 架构与产品方向</sub>

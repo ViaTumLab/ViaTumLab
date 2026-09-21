@@ -114,6 +114,44 @@
       <sub>多媒体处理 · 人工智能与数据挖掘</sub>
     </td>
   </tr>
+  <tr><td colspan="4"><hr /></td></tr>
+  <tr><td colspan="4" align="center"><b>核心成员</b></td></tr>
+  <tr>
+    <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
+    <td align="center" width="25%">
+      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=0XooOf0AAAAJ">
+        <img src="https://github.com/identicons/shangkun.png" width="100px;" alt="Shangkun Sun"/><br />
+        <sub><b>孙上焜 Shangkun Sun</b></sub>
+      </a>
+      <br />
+      <sub>北京大学 · 视频理解</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/KuanweiLin910730">
+        <img src="https://github.com/KuanweiLin910730.png" width="100px;" alt="Kuanwei Lin"/><br />
+        <sub><b>林冠帏 Kuanwei Lin</b></sub>
+      </a>
+      <br />
+      <sub>核心成员</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://github.com/JiayuDing031020">
+        <img src="https://github.com/JiayuDing031020.png" width="100px;" alt="Jiayu Ding"/><br />
+        <sub><b>丁家钰 Jiayu Ding</b></sub>
+      </a>
+      <br />
+      <sub>北京大学 · LLM for 3D 与视频理解</sub>
+    </td>
+    <!-- 杜忠璟：暂无 GitHub，如需可替换头像链接 -->
+    <td align="center" width="25%">
+      <a href="https://scholar.google.com/citations?user=ej0paiIAAAAJ&amp;hl=en">
+        <img src="https://github.com/identicons/zhongjing.png" width="100px;" alt="Zhongjing Du"/><br />
+        <sub><b>杜忠璟 Zhongjing Du</b></sub>
+      </a>
+      <br />
+      <sub>北京大学 · AIGC · 视频推理</sub>
+    </td>
+  </tr>
 </table>
 
 ## 联系我们

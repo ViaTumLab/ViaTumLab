@@ -109,6 +109,16 @@
   </tr>
   <tr>
     <td align="center" width="20%">
+      <a href="https://github.com/KuanweiLin910730">
+        <img src="https://github.com/KuanweiLin910730.png" width="100px;" alt="Kuanwei Lin"/><br />
+        <sub><b>林冠帏 Kuanwei Lin</b></sub>
+      </a>
+      <br />
+      <sub>产研核心</sub>
+      <br />
+      <sub>北京大学</sub>
+    </td>
+    <td align="center" width="20%">
       <a href="https://github.com/ZyQiu6">
         <img src="https://github.com/ZyQiu6.png" width="100px;" alt="邱子毅 Ziyi Qiu"/><br />
         <sub><b>邱子毅 Ziyi Qiu</b></sub>
@@ -126,16 +136,6 @@
       </a>
       <br />
       <sub>科研团队（视频理解）</sub>
-      <br />
-      <sub>北京大学</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://github.com/KuanweiLin910730">
-        <img src="https://github.com/KuanweiLin910730.png" width="100px;" alt="Kuanwei Lin"/><br />
-        <sub><b>林冠帏 Kuanwei Lin</b></sub>
-      </a>
-      <br />
-      <sub>技术核心</sub>
       <br />
       <sub>北京大学</sub>
     </td>

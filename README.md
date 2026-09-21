@@ -156,6 +156,16 @@
       <sub>北京大学 · 计算机硕士</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/chipfighter">
+        <img src="https://github.com/chipfighter.png" width="100px;" alt="Junjie Wang"/><br />
+        <sub><b>王俊杰 Junjie Wang</b></sub>
+      </a>
+      <br />
+      <sub>Harness 架构师</sub>
+    </td>
+  </tr>
 </table>
 
 ## 联系我们

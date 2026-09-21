@@ -81,7 +81,7 @@
       <br />
       <sub>联合创始人 · 清华大学</sub>
       <br />
-      <sub>多模态大模型 · 视频推理 · GUI 智能体</sub>
+      <sub>LLM · 智能体 · 多模态理解</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/farewellthree">

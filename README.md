@@ -90,7 +90,7 @@
     <td align="center" width="20%">
       <a href="https://github.com/farewellthree">
         <img src="https://github.com/farewellthree.png" width="100px;" alt="Ryan Liu"/><br />
-        <sub><b>Ryan Liu（farewellthree）</b></sub>
+        <sub><b>Ryan Liu</b></sub>
       </a>
       <br />
       <sub>联合创始人 · 北京大学</sub>

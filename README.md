@@ -89,8 +89,6 @@
       <br />
       <sub>联合创始人 · 科研负责人</sub>
       <br />
-      <sub>科研团队（视频理解 · 多模态大模型）</sub>
-      <br />
       <sub>北京大学</sub>
       <br />
       <sub><a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
@@ -114,7 +112,7 @@
         <sub><b>ZyQiu6</b></sub>
       </a>
       <br />
-      <sub>科研团队（LLM infra）负责人 · 清华大学</sub>
+      <sub>LLM infra团队负责人 · 清华大学</sub>
     </td>
     <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
@@ -123,7 +121,9 @@
         <sub><b>Alex Sun</b></sub>
       </a>
       <br />
-      <sub>科研团队（视频理解） · 北京大学</sub>
+      <sub>科研团队（视频理解）</sub>
+      <br />
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/KuanweiLin910730">
@@ -131,7 +131,9 @@
         <sub><b>林冠帏 Kuanwei Lin</b></sub>
       </a>
       <br />
-      <sub>技术核心 · 北京大学</sub>
+      <sub>技术核心</sub>
+      <br />
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/JiayuDing031020">
@@ -139,7 +141,9 @@
         <sub><b>丁家钰 Jiayu Ding</b></sub>
       </a>
       <br />
-      <sub>科研团队（LLM for 3D 与视频理解） · 北京大学</sub>
+      <sub>科研团队（LLM for 3D 与视频理解）</sub>
+      <br />
+      <sub>北京大学</sub>
     </td>
     <!-- 杜忠璟：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
@@ -148,7 +152,9 @@
         <sub><b>杜忠璟 Zhongjing Du</b></sub>
       </a>
       <br />
-      <sub>科研团队（AIGC · 视频推理） · 北京大学</sub>
+      <sub>科研团队（AIGC · 视频推理）</sub>
+      <br />
+      <sub>北京大学</sub>
     </td>
   </tr>
   <tr>
@@ -159,7 +165,9 @@
         <sub><b>蒋旭 Xu Jiang</b></sub>
       </a>
       <br />
-      <sub>计算机硕士 · 北京大学</sub>
+      <sub>科研团队（Agentic RL）</sub>
+      <br />
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/chipfighter">

@@ -71,7 +71,7 @@
       <br />
       <sub>联合创始人 · 北京大学</sub>
       <br />
-      <sub>视频理解 · 长视频推理</sub>
+      <sub>Harness负责人</sub>
       <br />
       <sub><a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>

@@ -38,16 +38,27 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <!-- 在此处添加更多成员：
+    <!-- 张文昊：提供 GitHub 用户名后，将 identicons 链接替换为 https://github.com/<用户名>.png 并补上 <a href> -->
     <td align="center" width="25%">
-      <a href="https://github.com/成员GitHub用户名">
-        <img src="https://github.com/成员GitHub用户名.png" width="100px;" alt="..."/><br />
-        <sub><b>成员名</b></sub>
-      </a>
+      <img src="https://github.com/identicons/wenhao.png" width="100px;" alt="张文昊"/><br />
+      <sub><b>张文昊</b></sub>
       <br />
-      <sub>角色 · 负责方向</sub>
+      <sub>联合创始人</sub>
     </td>
-    -->
+    <!-- 田景绮：提供 GitHub 用户名后替换头像链接 -->
+    <td align="center" width="25%">
+      <img src="https://github.com/identicons/jingqi.png" width="100px;" alt="田景绮"/><br />
+      <sub><b>田景绮</b></sub>
+      <br />
+      <sub>联合创始人</sub>
+    </td>
+    <!-- 柳儒杨：提供 GitHub 用户名后替换头像链接 -->
+    <td align="center" width="25%">
+      <img src="https://github.com/identicons/ruyang.png" width="100px;" alt="柳儒杨"/><br />
+      <sub><b>柳儒杨</b></sub>
+      <br />
+      <sub>联合创始人</sub>
+    </td>
   </tr>
 </table>
 

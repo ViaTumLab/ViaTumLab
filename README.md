@@ -79,7 +79,9 @@
         <sub><b>田景绮 Jingqi Tian</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · 技术负责人 · 清华大学</sub>
+      <sub>联合创始人 · 技术负责人</sub>
+      <br />
+      <sub>清华大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/farewellthree">
@@ -112,7 +114,9 @@
         <sub><b>ZyQiu6</b></sub>
       </a>
       <br />
-      <sub>LLM infra团队负责人 · 清华大学</sub>
+      <sub>LLM infra团队负责人</sub>
+      <br />
+      <sub>清华大学</sub>
     </td>
     <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">

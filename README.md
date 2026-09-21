@@ -63,16 +63,17 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <!-- 张文昊：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="25%">
-      <a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">
-        <img src="https://github.com/identicons/wenhao.png" width="100px;" alt="Wenhao Zhang"/><br />
+      <a href="https://github.com/whu125">
+        <img src="https://github.com/whu125.png" width="100px;" alt="Wenhao Zhang"/><br />
         <sub><b>张文昊 Wenhao Zhang</b></sub>
       </a>
       <br />
       <sub>联合创始人 · 北京大学</sub>
       <br />
       <sub>视频理解 · 长视频推理</sub>
+      <br />
+      <sub><a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
     <td align="center" width="25%">
       <a href="https://trilarflagz.github.io/">
@@ -84,16 +85,17 @@
       <br />
       <sub>多模态大模型 · 视频推理 · GUI 智能体</sub>
     </td>
-    <!-- 柳儒杨：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="25%">
-      <a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">
-        <img src="https://github.com/identicons/ruyang.png" width="100px;" alt="Ruyang Liu"/><br />
+      <a href="https://github.com/farewellthree">
+        <img src="https://github.com/farewellthree.png" width="100px;" alt="Ruyang Liu"/><br />
         <sub><b>柳儒杨 Ruyang Liu</b></sub>
       </a>
       <br />
       <sub>联合创始人 · 北京大学</sub>
       <br />
       <sub>视频理解 · 多模态大模型（ST-LLM）</sub>
+      <br />
+      <sub><a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
   </tr>
   <tr><td colspan="4"><hr /></td></tr>

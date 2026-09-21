@@ -38,16 +38,6 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <td align="center" width="25%">
-      <a href="https://trilarflagz.github.io/">
-        <img src="https://github.com/Trilarflagz.png" width="100px;" alt="Jingqi Tian"/><br />
-        <sub><b>田景绮 Jingqi Tian</b></sub>
-      </a>
-      <br />
-      <sub>联合创始人 · 清华大学</sub>
-      <br />
-      <sub>多模态大模型 · 视频推理 · GUI 智能体</sub>
-    </td>
     <!-- 张文昊：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="25%">
       <a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">
@@ -58,6 +48,16 @@
       <sub>联合创始人 · 北京大学</sub>
       <br />
       <sub>视频理解 · 长视频推理</sub>
+    </td>
+    <td align="center" width="25%">
+      <a href="https://trilarflagz.github.io/">
+        <img src="https://github.com/Trilarflagz.png" width="100px;" alt="Jingqi Tian"/><br />
+        <sub><b>田景绮 Jingqi Tian</b></sub>
+      </a>
+      <br />
+      <sub>联合创始人 · 清华大学</sub>
+      <br />
+      <sub>多模态大模型 · 视频推理 · GUI 智能体</sub>
     </td>
     <!-- 柳儒杨：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="25%">

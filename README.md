@@ -66,7 +66,7 @@
     <td align="center" width="20%">
       <a href="https://github.com/whu125">
         <img src="https://github.com/whu125.png" width="100px;" alt="Wenhao Zhang"/><br />
-        <sub><b>张文昊 Wenhao Zhang</b></sub>
+        <sub><b>张文昊Vince</b></sub>
       </a>
       <br />
       <sub>联合创始人 · 北京大学</sub>
@@ -127,7 +127,7 @@
         <sub><b>林冠帏 Kuanwei Lin</b></sub>
       </a>
       <br />
-      <sub>核心成员</sub>
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/JiayuDing031020">
@@ -162,7 +162,6 @@
 
 - 官网：[viatumlab.inkmindspace.com](https://viatumlab.inkmindspace.com/)
 - 邮箱：[axiom@viatumlab.com](mailto:axiom@viatumlab.com)
-- 问题反馈：[YAgent Issues](https://github.com/ViaTumLab/YAgent/issues)
 
 <div align="center">
 

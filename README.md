@@ -175,6 +175,17 @@
       <br />
       <sub>北京大学</sub>
     </td>
+    <!-- 杨宗：暂无 GitHub，如需可替换头像链接 -->
+    <td align="center" width="20%">
+      <a href="mailto:1596030776@qq.com">
+        <img src="https://github.com/identicons/yangzong.png" width="100px;" alt="杨宗 ZongYang"/><br />
+        <sub><b>杨宗 ZongYang</b></sub>
+      </a>
+      <br />
+      <sub>Harness架构师</sub>
+      <br />
+      <sub>武汉大学</sub>
+    </td>
     <td align="center" width="20%">
       <a href="https://github.com/chipfighter">
         <img src="https://github.com/chipfighter.png" width="100px;" alt="Junjie Wang"/><br />
@@ -191,7 +202,6 @@
       <br />
       <sub>YAgent 核心开发者</sub>
     </td>
-    <td width="20%"></td>
     <td width="20%"></td>
   </tr>
 </table>

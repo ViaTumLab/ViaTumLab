@@ -112,7 +112,7 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://github.com/ZyQiu6">
         <img src="https://github.com/ZyQiu6.png" width="100px;" alt="ZyQiu6"/><br />
         <sub><b>ZyQiu6</b></sub>
@@ -121,7 +121,7 @@
       <sub>清华大学 · LLM infra 团队负责人</sub>
     </td>
     <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=0XooOf0AAAAJ">
         <img src="https://github.com/identicons/alex.png" width="100px;" alt="Alex Sun"/><br />
         <sub><b>Alex Sun</b></sub>
@@ -129,7 +129,7 @@
       <br />
       <sub>北京大学 · 视频理解</sub>
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://github.com/KuanweiLin910730">
         <img src="https://github.com/KuanweiLin910730.png" width="100px;" alt="Kuanwei Lin"/><br />
         <sub><b>林冠帏 Kuanwei Lin</b></sub>
@@ -137,7 +137,7 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://github.com/JiayuDing031020">
         <img src="https://github.com/JiayuDing031020.png" width="100px;" alt="Jiayu Ding"/><br />
         <sub><b>丁家钰 Jiayu Ding</b></sub>
@@ -146,7 +146,7 @@
       <sub>北京大学 · LLM for 3D 与视频理解</sub>
     </td>
     <!-- 杜忠璟：暂无 GitHub，如需可替换头像链接 -->
-    <td align="center" width="16%">
+    <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=ej0paiIAAAAJ&amp;hl=en">
         <img src="https://github.com/identicons/zhongjing.png" width="100px;" alt="Zhongjing Du"/><br />
         <sub><b>杜忠璟 Zhongjing Du</b></sub>
@@ -154,8 +154,10 @@
       <br />
       <sub>北京大学 · AIGC · 视频推理</sub>
     </td>
+  </tr>
+  <tr>
     <!-- 蒋旭：暂无 GitHub，如需可替换头像链接 -->
-    <td align="center" width="16%">
+    <td align="center" width="50%">
       <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
         <img src="https://github.com/identicons/jiangxu.png" width="100px;" alt="Xu Jiang"/><br />
         <sub><b>蒋旭 Xu Jiang</b></sub>
@@ -163,9 +165,7 @@
       <br />
       <sub>北京大学 · 计算机硕士</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="50%">
       <a href="https://github.com/chipfighter">
         <img src="https://github.com/chipfighter.png" width="100px;" alt="Junjie Wang"/><br />
         <sub><b>王俊杰 Junjie Wang</b></sub>

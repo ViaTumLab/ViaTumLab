@@ -72,8 +72,6 @@
       <sub>联合创始人 · 北京大学</sub>
       <br />
       <sub>Harness负责人</sub>
-      <br />
-      <sub><a href="https://scholar.google.com/citations?user=i2RqAVoAAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://trilarflagz.github.io/">
@@ -84,8 +82,6 @@
       <sub>联合创始人 · 清华大学</sub>
       <br />
       <sub>多模态大模型 · 视频推理 · GUI 智能体</sub>
-      <br />
-      <sub><a href="https://scholar.google.com/citations?user=kSKlaQIAAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/farewellthree">

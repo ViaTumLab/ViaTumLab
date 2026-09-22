@@ -169,10 +169,9 @@
       <br />
       <sub>北京大学</sub>
     </td>
-    <!-- 杜忠璟：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=ej0paiIAAAAJ&amp;hl=en">
-        <img src="https://github.com/identicons/zhongjing.png" width="100px;" alt="Zhongjing Du"/><br />
+        <img src="avatars/zhongjing_du.jpg" width="100px;" alt="Zhongjing Du"/><br />
         <sub><b>杜忠璟 Zhongjing Du</b></sub>
       </a>
       <br />

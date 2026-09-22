@@ -222,7 +222,7 @@
         <sub><b>陈铿彬 Kengbin Chen</b></sub>
       </a>
       <br />
-      <sub>团队成员</sub>
+      <sub>Harness研发</sub>
     </td>
   </tr>
 </table>

@@ -174,7 +174,7 @@
         <sub><b>杜忠璟 Zhongjing Du</b></sub>
       </a>
       <br />
-      <sub>科研团队（AIGC · 视频推理）</sub>
+      <sub>科研团队（AIGC）</sub>
       <br />
       <sub>北京大学</sub>
     </td>

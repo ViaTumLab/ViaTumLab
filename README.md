@@ -216,7 +216,14 @@
       <br />
       <sub>YAgent 核心开发者</sub>
     </td>
-    <td width="20%"></td>
+    <td align="center" width="20%">
+      <a href="https://github.com/reeeexchen">
+        <img src="https://github.com/reeeexchen.png" width="100px;" alt="Kengbin Chen"/><br />
+        <sub><b>陈铿彬 Kengbin Chen</b></sub>
+      </a>
+      <br />
+      <sub>团队成员</sub>
+    </td>
   </tr>
 </table>
 

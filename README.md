@@ -148,10 +148,9 @@
       <br />
       <sub>清华大学</sub>
     </td>
-    <!-- 孙上焜：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=0XooOf0AAAAJ">
-        <img src="https://github.com/identicons/alex.png" width="100px;" alt="Alex Sun"/><br />
+        <img src="avatars/alex_sun.jpg" width="100px;" alt="Alex Sun"/><br />
         <sub><b>Alex Sun</b></sub>
       </a>
       <br />

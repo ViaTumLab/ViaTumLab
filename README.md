@@ -180,10 +180,9 @@
     </td>
   </tr>
   <tr>
-    <!-- 蒋旭：暂无 GitHub，如需可替换头像链接 -->
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
-        <img src="https://github.com/identicons/jiangxu.png" width="100px;" alt="Xu Jiang"/><br />
+        <img src="avatars/xu_jiang.jpg" width="100px;" alt="Xu Jiang"/><br />
         <sub><b>蒋旭 Xu Jiang</b></sub>
       </a>
       <br />

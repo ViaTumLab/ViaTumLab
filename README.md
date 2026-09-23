@@ -164,7 +164,7 @@
         <sub><b>丁家钰 Jiayu Ding</b></sub>
       </a>
       <br />
-      <sub>科研团队（LLM for 3D 与视频理解）</sub>
+      <sub>科研团队（大模型、多模态）</sub>
       <br />
       <sub>北京大学</sub>
     </td>

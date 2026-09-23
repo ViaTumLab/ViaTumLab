@@ -154,7 +154,7 @@
         <sub><b>Alex Sun</b></sub>
       </a>
       <br />
-      <sub>科研团队（视频理解）</sub>
+      <sub>科研团队（Infra、后训练）</sub>
       <br />
       <sub>北京大学</sub>
     </td>

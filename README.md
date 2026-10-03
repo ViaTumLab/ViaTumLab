@@ -115,10 +115,9 @@
       <br />
       <sub><a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
-    <!-- 李革：提供 GitHub 用户名后，可将 identicons 替换为 https://github.com/<用户名>.png -->
     <td align="center" width="20%">
       <a href="https://www.ece.pku.edu.cn/info/1046/2658.htm">
-        <img src="https://github.com/identicons/geli.png" width="100px;" alt="Ge Li"/><br />
+        <img src="avatars/pku_logo.png" width="100px;" alt="Ge Li"/><br />
         <sub><b>李革 Ge Li</b></sub>
       </a>
       <br />

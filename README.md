@@ -6,7 +6,7 @@
 
 *One intelligent layer. Across real-world domains.*
 
-[![Website](https://img.shields.io/badge/官网-viatumlab-111111)](https://viatumlab.inkmindspace.com/)
+[![Website](https://img.shields.io/badge/官网-viatumlab-111111)](https://viatumlab.com/)
 [![YAgent](https://img.shields.io/badge/project-YAgent-2563eb)](https://github.com/ViaTumLab/YAgent)
 [![License](https://img.shields.io/badge/license-MIT-16a34a)](https://github.com/ViaTumLab/YAgent/blob/main/LICENSE)
 
@@ -228,7 +228,7 @@
 
 ## 联系我们
 
-- 官网：[viatumlab.inkmindspace.com](https://viatumlab.inkmindspace.com/)
+- 官网：[viatumlab.com](https://viatumlab.com/)
 - 邮箱：[axiom@viatumlab.com](mailto:axiom@viatumlab.com)
 
 <div align="center">

@@ -180,8 +180,10 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <img src="avatars/li_jiayang.jpg" width="100px;" alt="Jiayang Li"/><br />
-      <sub><b>李佳阳 Jiayang Li</b></sub>
+      <a href="https://github.com/wiwiqqfmm">
+        <img src="avatars/li_jiayang.jpg" width="100px;" alt="Jiayang Li"/><br />
+        <sub><b>李佳阳 Jiayang Li</b></sub>
+      </a>
       <br />
       <sub>MetaHarness团队</sub>
       <br />

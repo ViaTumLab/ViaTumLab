@@ -168,26 +168,24 @@
       <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://scholar.google.com/citations?user=ej0paiIAAAAJ&amp;hl=en">
-        <img src="avatars/zhongjing_du.jpg" width="100px;" alt="Zhongjing Du"/><br />
-        <sub><b>杜忠璟 Zhongjing Du</b></sub>
+      <a href="mailto:liheath230@gmail.com">
+        <img src="avatars/li_kunyan.jpg" width="100px;" alt="Kunyan Li"/><br />
+        <sub><b>李昆宴 Kunyan Li</b></sub>
       </a>
       <br />
-      <sub>科研团队（AIGC）</sub>
+      <sub>MetaHarness团队</sub>
       <br />
-      <sub>北京大学</sub>
+      <sub>香港理工大学</sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
-        <img src="avatars/xu_jiang.jpg" width="100px;" alt="Xu Jiang"/><br />
-        <sub><b>蒋旭 Xu Jiang</b></sub>
-      </a>
+      <img src="avatars/li_jiayang.jpg" width="100px;" alt="Jiayang Li"/><br />
+      <sub><b>李佳阳 Jiayang Li</b></sub>
       <br />
-      <sub>科研团队（Agentic RL）</sub>
+      <sub>MetaHarness团队</sub>
       <br />
-      <sub>北京大学</sub>
+      <sub>香港理工大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/1596030776">
@@ -226,22 +224,24 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="mailto:liheath230@gmail.com">
-        <img src="avatars/li_kunyan.jpg" width="100px;" alt="Kunyan Li"/><br />
-        <sub><b>李昆宴 Kunyan Li</b></sub>
+      <a href="https://scholar.google.com/citations?user=ej0paiIAAAAJ&amp;hl=en">
+        <img src="avatars/zhongjing_du.jpg" width="100px;" alt="Zhongjing Du"/><br />
+        <sub><b>杜忠璟 Zhongjing Du</b></sub>
       </a>
       <br />
-      <sub>MetaHarness团队</sub>
+      <sub>科研团队（AIGC）</sub>
       <br />
-      <sub>香港理工大学</sub>
+      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
-      <img src="avatars/li_jiayang.jpg" width="100px;" alt="Jiayang Li"/><br />
-      <sub><b>李佳阳 Jiayang Li</b></sub>
+      <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
+        <img src="avatars/xu_jiang.jpg" width="100px;" alt="Xu Jiang"/><br />
+        <sub><b>蒋旭 Xu Jiang</b></sub>
+      </a>
       <br />
-      <sub>MetaHarness团队</sub>
+      <sub>科研团队（Agentic RL）</sub>
       <br />
-      <sub>香港理工大学</sub>
+      <sub>北京大学</sub>
     </td>
   </tr>
 </table>

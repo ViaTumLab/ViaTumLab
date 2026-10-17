@@ -168,7 +168,7 @@
       <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
-      <a href="mailto:liheath230@gmail.com">
+      <a href="https://github.com/Kunyanli230">
         <img src="avatars/li_kunyan.jpg" width="100px;" alt="Kunyan Li"/><br />
         <sub><b>李昆宴 Kunyan Li</b></sub>
       </a>

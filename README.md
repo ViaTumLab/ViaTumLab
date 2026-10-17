@@ -227,6 +227,7 @@
   <tr>
     <td align="center" width="20%">
       <a href="mailto:liheath230@gmail.com">
+        <img src="avatars/li_kunyan.jpg" width="100px;" alt="Kunyan Li"/><br />
         <sub><b>李昆宴 Kunyan Li</b></sub>
       </a>
       <br />
@@ -235,6 +236,7 @@
       <sub>香港理工大学</sub>
     </td>
     <td align="center" width="20%">
+      <img src="avatars/li_jiayang.jpg" width="100px;" alt="Jiayang Li"/><br />
       <sub><b>李佳阳 Jiayang Li</b></sub>
       <br />
       <sub>MetaHarness团队</sub>

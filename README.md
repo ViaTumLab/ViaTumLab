@@ -89,7 +89,7 @@
         <sub><b>张文昊（Vince）</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · Harness负责人</sub>
+      <sub>联合创始人 · CTO</sub>
       <br />
       <sub>北京大学</sub>
     </td>
@@ -99,7 +99,7 @@
         <sub><b>田景绮 Jingqi Tian</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · 技术负责人</sub>
+      <sub>联合创始人</sub>
       <br />
       <sub>清华大学</sub>
     </td>
@@ -109,7 +109,7 @@
         <sub><b>Ryan Liu</b></sub>
       </a>
       <br />
-      <sub>联合创始人 · 科研负责人</sub>
+      <sub>Tech Lead</sub>
       <br />
       <sub>北京大学</sub>
       <br />

@@ -224,6 +224,24 @@
       <sub>Harness研发</sub>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="20%">
+      <a href="mailto:liheath230@gmail.com">
+        <sub><b>李昆宴 Kunyan Li</b></sub>
+      </a>
+      <br />
+      <sub>MetaHarness团队</sub>
+      <br />
+      <sub>香港理工大学</sub>
+    </td>
+    <td align="center" width="20%">
+      <sub><b>李佳阳 Jiayang Li</b></sub>
+      <br />
+      <sub>MetaHarness团队</sub>
+      <br />
+      <sub>香港理工大学</sub>
+    </td>
+  </tr>
 </table>
 
 ## 联系我们

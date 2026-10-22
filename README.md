@@ -144,12 +144,12 @@
       <sub>清华大学博士</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/JiayuDing031020">
-        <img src="https://github.com/JiayuDing031020.png" width="100px;" alt="Jiayu Ding"/><br />
-        <sub><b>丁家钰 Jiayu Ding</b></sub>
+      <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
+        <img src="avatars/xu_jiang.jpg" width="100px;" alt="Xu Jiang"/><br />
+        <sub><b>蒋旭 Xu Jiang</b></sub>
       </a>
       <br />
-      <sub>科研团队（大模型、多模态）</sub>
+      <sub>科研团队（Agentic RL）</sub>
       <br />
       <sub>北京大学</sub>
     </td>
@@ -214,12 +214,12 @@
   </tr>
   <tr>
     <td align="center" width="20%">
-      <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
-        <img src="avatars/xu_jiang.jpg" width="100px;" alt="Xu Jiang"/><br />
-        <sub><b>蒋旭 Xu Jiang</b></sub>
+      <a href="https://github.com/JiayuDing031020">
+        <img src="https://github.com/JiayuDing031020.png" width="100px;" alt="Jiayu Ding"/><br />
+        <sub><b>丁家钰 Jiayu Ding</b></sub>
       </a>
       <br />
-      <sub>科研团队（Agentic RL）</sub>
+      <sub>科研团队（大模型、多模态）</sub>
       <br />
       <sub>北京大学</sub>
     </td>

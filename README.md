@@ -116,6 +116,18 @@
       <sub><a href="https://scholar.google.com/citations?user=pZ3sWH0AAAAJ&amp;hl=en">Google Scholar ↗</a></sub>
     </td>
     <td align="center" width="20%">
+      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=0XooOf0AAAAJ">
+        <img src="avatars/alex_sun.jpg" width="100px;" alt="Alex Sun"/><br />
+        <sub><b>Alex Sun</b></sub>
+      </a>
+      <br />
+      <sub>联合创始人 · 科研团队（Infra、后训练）</sub>
+      <br />
+      <sub>北京大学</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%">
       <a href="https://www.ece.pku.edu.cn/info/1046/2658.htm">
         <img src="avatars/pku_logo.png" width="100px;" alt="Ge Li"/><br />
         <sub><b>李革 Ge Li</b></sub>
@@ -125,8 +137,6 @@
       <br />
       <sub>北京大学信息工程学院</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="20%">
       <a href="https://github.com/KuanweiLin910730">
         <img src="https://github.com/KuanweiLin910730.png" width="100px;" alt="Kuanwei Lin"/><br />
@@ -146,16 +156,6 @@
       <sub>LLM infra团队负责人</sub>
       <br />
       <sub>清华大学</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=0XooOf0AAAAJ">
-        <img src="avatars/alex_sun.jpg" width="100px;" alt="Alex Sun"/><br />
-        <sub><b>Alex Sun</b></sub>
-      </a>
-      <br />
-      <sub>科研团队（Infra、后训练）</sub>
-      <br />
-      <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/JiayuDing031020">
@@ -208,14 +208,6 @@
       <sub>Harness 架构师</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/666-gy">
-        <img src="https://github.com/666-gy.png" width="100px;" alt="郭缘"/><br />
-        <sub><b>郭缘</b></sub>
-      </a>
-      <br />
-      <sub>YAgent 核心开发者</sub>
-    </td>
-    <td align="center" width="20%">
       <a href="https://github.com/reeeexchen">
         <img src="https://github.com/reeeexchen.png" width="100px;" alt="Kengbin Chen"/><br />
         <sub><b>陈铿彬 Kengbin Chen</b></sub>
@@ -223,8 +215,6 @@
       <br />
       <sub>Harness研发</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=ej0paiIAAAAJ&amp;hl=en">
         <img src="avatars/zhongjing_du.jpg" width="100px;" alt="Zhongjing Du"/><br />
@@ -235,6 +225,8 @@
       <br />
       <sub>北京大学</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center" width="20%">
       <a href="https://scholar.google.com/citations?user=tJaYoQgAAAAJ&amp;hl=en">
         <img src="avatars/xu_jiang.jpg" width="100px;" alt="Xu Jiang"/><br />

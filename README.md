@@ -7,8 +7,6 @@
 *One intelligent layer. Across real-world domains.*
 
 [![Website](https://img.shields.io/badge/官网-viatumlab-111111)](https://viatumlab.com/)
-[![YAgent](https://img.shields.io/badge/project-YAgent-2563eb)](https://github.com/ViaTumLab/YAgent)
-[![License](https://img.shields.io/badge/license-MIT-16a34a)](https://github.com/ViaTumLab/YAgent/blob/main/LICENSE)
 
 **在研究与真实世界之间，构建下一层可能。**
 
@@ -32,16 +30,6 @@
 - **兼容现有工作流** — 继续使用 Codex、Claude Code、Cursor 等终端，只需把 API 地址指向 ViaHarness
 - **成本可控、决策可解释** — 记录每一次选择的原因、成本、耗时与重试
 - **跨场景迁移** — 统一内核（执行编排、上下文记忆、评测反馈、权限审计）复用于金融、医疗、教育、科研、政务等众多领域，每个领域只需适配最后一公里
-
-## 孵化支持项目
-
-### [YAgent](https://github.com/ViaTumLab/YAgent) — 开源桌面客户端
-
-> 模型你来选，工作交给 Yan。
-
-- 连接本地代码、工具与多 Agent 协作的开源桌面客户端（Windows x64 / macOS Apple Silicon）
-- 多模型适配、工程级代码工具、长任务恢复、MCP 与变更审阅
-- 搭配 ViaHarness 使用，发挥 MAX 效果
 
 ## Harness 前沿探索
 

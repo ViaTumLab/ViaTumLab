@@ -136,14 +136,12 @@
       <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/ZyQiu6">
-        <img src="https://github.com/ZyQiu6.png" width="100px;" alt="邱子毅 Ziyi Qiu"/><br />
-        <sub><b>邱子毅 Ziyi Qiu</b></sub>
+      <a href="https://github.com/cheblubenren">
+        <img src="avatars/chen_lu.jpg" width="100px;" alt="Chen Lu"/><br />
+        <sub><b>陈鲁 Chen Lu</b></sub>
       </a>
       <br />
-      <sub>LLM infra团队负责人</sub>
-      <br />
-      <sub>清华大学</sub>
+      <sub>清华大学博士</sub>
     </td>
     <td align="center" width="20%">
       <a href="https://github.com/JiayuDing031020">
@@ -226,12 +224,14 @@
       <sub>北京大学</sub>
     </td>
     <td align="center" width="20%">
-      <a href="https://github.com/cheblubenren">
-        <img src="avatars/chen_lu.jpg" width="100px;" alt="Chen Lu"/><br />
-        <sub><b>陈鲁 Chen Lu</b></sub>
+      <a href="https://github.com/ZyQiu6">
+        <img src="https://github.com/ZyQiu6.png" width="100px;" alt="邱子毅 Ziyi Qiu"/><br />
+        <sub><b>邱子毅 Ziyi Qiu</b></sub>
       </a>
       <br />
-      <sub>清华大学博士</sub>
+      <sub>LLM infra团队负责人</sub>
+      <br />
+      <sub>清华大学</sub>
     </td>
   </tr>
 </table>

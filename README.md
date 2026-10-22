@@ -225,6 +225,14 @@
       <br />
       <sub>北京大学</sub>
     </td>
+    <td align="center" width="20%">
+      <a href="https://github.com/cheblubenren">
+        <img src="avatars/chen_lu.jpg" width="100px;" alt="Chen Lu"/><br />
+        <sub><b>陈鲁 Chen Lu</b></sub>
+      </a>
+      <br />
+      <sub>清华大学博士</sub>
+    </td>
   </tr>
 </table>
 

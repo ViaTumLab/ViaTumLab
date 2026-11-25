@@ -1,12 +1,12 @@
 <div align="center">
 
-<h1><img src="icon.png" width="34" alt="ViaTumLab icon" style="vertical-align: middle"/> ViaTumLab</h1>
+<h1><img src="icon.png" width="34" alt="星途弧光 InkMind 图标" style="vertical-align: middle"/> 星途弧光 InkMind</h1>
 
 **构建 Harness 中间层的前沿实验室**
 
 *One intelligent layer. Across real-world domains.*
 
-[![Website](https://img.shields.io/badge/官网-viatumlab-111111)](https://viatumlab.com/)
+[![InkMind 官网](https://img.shields.io/badge/官网-InkMind-2563EB)](https://viatumlab.com/)
 
 **在研究与真实世界之间，构建下一层可能。**
 
@@ -18,7 +18,7 @@
 
 在模型之上、应用之下，存在一个缺失的层 —— **Harness 层**。
 
-模型提供通用智能，ViaTumLab 构建工作的环境：把工具、上下文、记忆与执行控制连接起来，做成**可复用、可迁移的 Agent 系统底座**。我们探索智能体如何跨任务、跨场景持续工作 —— 让下一个想法，真正运行起来。
+模型提供通用智能，InkMind 构建工作的环境：把工具、上下文、记忆与执行控制连接起来，做成**可复用、可迁移的 Agent 系统底座**。我们探索智能体如何跨任务、跨场景持续工作 —— 让下一个想法，真正运行起来。
 
 ## 我们在构建
 
@@ -55,7 +55,7 @@
 - **结构与干扰鲁棒性** — 应对分支、回退、交错子任务及无关窗口干扰
 - **状态修订** — 识别过期信息，处理失效、冲突与恢复，并保留可审计证据
 
-## 我们的团队
+## InkMind 团队
 
 创始团队来自北京大学与清华大学，汇聚多名顶尖基础模型团队成员，孵化于国家重点实验室。
 
@@ -238,8 +238,9 @@
 
 ## 联系我们
 
-- 官网：[viatumlab.com](https://viatumlab.com/)
-- 邮箱：[axiom@viatumlab.com](mailto:axiom@viatumlab.com)
+- 官网：[星途弧光 InkMind](https://viatumlab.com/)
+- 邮箱：[联系 InkMind](mailto:axiom@viatumlab.com)
+- 研究交流社区：[InkMindSpace](https://inkmind-ai.com/)
 
 <div align="center">
 

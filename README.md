@@ -6,7 +6,7 @@
 
 *One intelligent layer. Across real-world domains.*
 
-[![InkMind 官网](https://img.shields.io/badge/官网-InkMind-2563EB)](https://viatumlab.com/)
+[![InkMind 官网](https://img.shields.io/badge/官网-InkMind-111111)](https://viatumlab.com/)
 
 **在研究与真实世界之间，构建下一层可能。**
 
